@@ -4,6 +4,10 @@ import numpy as np
 from alert import send_alert
 import winsound
 import os
+from database import init_db
+
+# ---------------- INITIALIZE DATABASE ----------------
+init_db()
 
 # ---------------- STATES ----------------
 sound_playing = False
