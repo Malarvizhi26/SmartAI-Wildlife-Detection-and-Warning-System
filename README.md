@@ -80,6 +80,8 @@ Open your browser and go to:
 ```
 http://localhost:8501
 ```
+## Architecture diagram:
+<img width="1536" height="1024" alt="ChatGPT Image Feb 5, 2026, 09_52_50 AM" src="https://github.com/user-attachments/assets/af127cd6-c5aa-4511-bcf4-759fd7f5c5c5" />
 
 The dashboard shows:
 
